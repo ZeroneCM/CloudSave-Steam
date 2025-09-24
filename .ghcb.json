@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "ZeroneCM",
+  "repo": "CloudSave-Steam",
+  "branch": "SilentHill2",
+  "mappings": [
+    {
+      "machine_id": "fd83f66d9668ab8d0bb1d68719a75319765c526d",
+      "machine_name": "DESKTOP-IS4D9LP",
+      "path": "C:\\Users\\ROG\\AppData\\Local\\SilentHill2\\Saved\\SaveGames",
+      "os": "Windows",
+      "last_updated": "2025-09-24T17:23:13.490274+00:00"
+    }
+  ],
+  "updated_at": "2025-09-24T17:23:13.490274+00:00"
+}
