@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "ZeroneCM",
+  "repo": "CloudSave-Steam",
+  "branch": "HITMANWorldofAssassination",
+  "mappings": [
+    {
+      "machine_id": "fd83f66d9668ab8d0bb1d68719a75319765c526d",
+      "machine_name": "DESKTOP-IS4D9LP",
+      "path": "C:\\Program Files (x86)\\Steam\\userdata\\103272012\\1659040\\remote",
+      "os": "Windows",
+      "last_updated": "2025-09-24T17:16:10.150506+00:00"
+    }
+  ],
+  "updated_at": "2025-09-24T17:16:10.150506+00:00"
+}
