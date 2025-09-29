@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "ZeroneCM",
+  "repo": "CloudSave-Steam",
+  "branch": "OriandtheWilloftheWisps",
+  "mappings": [
+    {
+      "machine_id": "fd83f66d9668ab8d0bb1d68719a75319765c526d",
+      "machine_name": "DESKTOP-IS4D9LP",
+      "path": "C:\\Users\\ROG\\AppData\\Local\\Ori and the Will of The Wisps",
+      "os": "Windows",
+      "last_updated": "2025-09-29T09:33:30.643712+00:00"
+    }
+  ],
+  "updated_at": "2025-09-29T09:33:30.643712+00:00"
+}
