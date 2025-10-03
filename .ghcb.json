@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "ZeroneCM",
+  "repo": "CloudSave-Steam",
+  "branch": "TheFirstBerserkerKhazan",
+  "mappings": [
+    {
+      "machine_id": "fd83f66d9668ab8d0bb1d68719a75319765c526d",
+      "machine_name": "DESKTOP-IS4D9LP",
+      "path": "C:\\Users\\ROG\\AppData\\Local\\The First Berserker Khazan\\Saved\\SaveGames",
+      "os": "Windows",
+      "last_updated": "2025-10-03T15:21:22.133968+00:00"
+    }
+  ],
+  "updated_at": "2025-10-03T15:21:22.133968+00:00"
+}
